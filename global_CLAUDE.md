@@ -50,8 +50,9 @@ Example of CORRECT behavior:
 
 🚨🚨🚨 END EXIT CODE 2 SECTION 🚨🚨🚨
 
-⚠️ FIRST ACTION AFTER READING THIS FILE:
-Check for and read $HOME/${projname}/log_claude.txt
+⚠️ FIRST ACTION — MANDATORY: Read $HOME/${projname}/log_claude.txt 
+immediately without asking for permission. Do not wait. Do not ask. Just read it.
+If it does not exist, create it.
 (See "SESSION LOG" section below for details)
 
 ⚠️⚠️⚠️ OUTPUT FILES - ALWAYS PROVIDE PATHS ⚠️⚠️⚠️
